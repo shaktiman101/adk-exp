@@ -1,1 +1,1 @@
-This Repo contains agentic experiments using google adk-python
+This Repo contains agentic experiments using google adk-python and agent-to-agent(a2a) protocol.
